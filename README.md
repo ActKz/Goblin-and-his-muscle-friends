@@ -1,11 +1,11 @@
 # Goblin and his muscle friends
 
-## URL: http://actkz.nctucs.net/
+## URL: http://people.cs.nctu.edu.tw/~thchen0216003/meichu2015/web/
 
 ## Features
 - Android App can generate QRcode with the price and bank account
 - Android App can scan the QRcode and transfer money to target account
-- [The web page](http://actkz.nctucs.net/) can generate the QRcode with summed price and bank account
+- [The web page](http://people.cs.nctu.edu.tw/~thchen0216003/meichu2015/web/) can generate the QRcode with summed price and bank account
 
 ## Testing Api provided by Esun bank
 
