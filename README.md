@@ -13,3 +13,17 @@
 - bank account
   - account on android app: account: tom, password: 1313
   - account on web: account: alice
+
+## Contributors
+
+### Android App done by
+- Justin (l6104400@gmail.com)
+- Eric (EricChou.cs02@g2.nctu.edu.tw)
+
+### Web UI
+- DonDon (henry19950709@gmail.com)
+- Goblin (chhsieh0810@gmail.com)
+- Brain (actkz.cs02@g2.nctu.edu.tw)
+
+### Esun API and web QRcode
+- Brain (actkz.cs02@g2.nctu.edu.tw)
