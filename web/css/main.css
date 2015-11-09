@@ -1,0 +1,67 @@
+body
+{
+	background-image: url(../2011060409223978.jpg);
+	height:100%;
+}
+
+.top
+{
+	width:70%;
+	height:210px;
+	margin:0px auto;
+	display:block;
+}
+
+.top img
+{
+	height:446px;
+	width:334px;
+	float:left;
+}
+
+#buydiv
+{
+	float:right;
+}
+
+.bottom
+{
+	width:70%;
+	margin:0px auto;
+	height:520px;
+	top:188;
+	display:block;
+}
+
+.bottom table tr td:nth-child(6)
+{
+	text-align:center;
+}
+
+#footer
+{
+	top:1300px;
+	display:block;
+}
+
+#footer img
+{
+	width:20%;
+}
+
+#footer h3
+{
+	text-align:center;
+	color:white;
+}
+
+th,td
+{
+	font-size:20px;
+}
+
+td img
+{
+	width:20px;
+	height:20px;
+}

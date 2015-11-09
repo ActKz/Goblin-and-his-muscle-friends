@@ -1,0 +1,49 @@
+body
+{
+	background-image: url(../2011060409223978.jpg);
+	height:100%;
+}
+
+.top
+{
+	width:70%;
+	height:30%;
+	margin:0px auto;
+	display:block;
+}
+
+.top img
+{
+	width:30%;
+	float:left;
+}
+
+#buydiv
+{
+	float:right;
+}
+
+.bottom
+{
+	width:70%;
+	margin:0px auto;
+	top:188;
+	display:block;
+}
+
+.bottom table tr td:nth-child(5)
+{
+	text-align:center;
+}
+
+.footer
+{
+	width:70%;
+	margin:0px auto;
+	display:block;
+}
+
+.footer img
+{
+	width:20%;
+}
